@@ -10,13 +10,13 @@ Let's start with some useful tips on how to create a honeypot token. Are you rea
 Step to Step guide on how to create honeypot token  
 https://howtocreatehoneypottoken.com/how-to-create-honeypot-token/
 
-Honeypot Token Code
+Honeypot Token Code  
 https://howtocreatehoneypottoken.com/honeypot-token-code/
 
-Learn how to add or remove liquidity from a honeypot token
+Learn how to add or remove liquidity from a honeypot token  
 https://howtocreatehoneypottoken.com/how-to-add-or-remove-liquidity/
 
-How to attract buyers
+How to attract buyers  
 https://howtocreatehoneypottoken.com/how-to-attract-buyers/
 
 **Special Feature:- You can anytime Switch On-OFF Honeypot Mode and Non Detectable Honeypot Token Code.**
