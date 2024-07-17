@@ -7,7 +7,7 @@ Let's start with some useful tips on how to create a honeypot token. Are you rea
 
 [Only for research and study purpose, don’t try to scam using this method]
 
-Step to Step guide on how to create honeypot token 
+Step to Step guide on how to create honeypot token  
 https://howtocreatehoneypottoken.com/how-to-create-honeypot-token/
 
 Honeypot Token Code
