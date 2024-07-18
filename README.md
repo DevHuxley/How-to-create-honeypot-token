@@ -5,7 +5,7 @@ Here is Dev Huxley, Contract Developer & Researcher. Let's discover what honeypo
 
 Let's start with some useful tips on how to create a honeypot token. Are you ready?
 
-[Only for research and study purpose, don’t try to scam using this method]
+[Only for research and study purpose.]
 
 Step to Step guide on how to create honeypot token  
 https://howtocreatehoneypottoken.com/how-to-create-honeypot-token/
