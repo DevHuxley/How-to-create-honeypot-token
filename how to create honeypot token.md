@@ -8,7 +8,7 @@ How to Create a Honeypot Token :-
 
 4) How to attract buyers :- [How to attract buyers](https://howtocreatehoneypottoken.com/how-to-attract-buyers/)
 
-[Only for research and study purpose, don’t try to scam using this method]
+[Only for research and study purpose.]
 
 Any queries?
 
