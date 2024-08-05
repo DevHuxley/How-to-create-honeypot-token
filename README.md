@@ -1,5 +1,5 @@
 # How to create honeypot token
-Step by Step Tutorial on how to create honeypot token and listing to dex exchanges.
+How to create honeypot token ? Step by Step Tutorial and learn how to list them into dex exchanges.
 
 Here is Dev Huxley, Contract Developer & Researcher. Let's discover what honeypot tokens are and how we create them, which are tokens that cannot be sold after being purchased.
 
